@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  body {
+    background-image: url('475778603_1836043606934367_3320004756826256580_n.jpg'); 
+    background-size: cover;  
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 16px;
+  }
+}
